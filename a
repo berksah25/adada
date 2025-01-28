@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>العيادة التجميلية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #ff69b4;
+            color: white;
+            padding: 20px 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2em;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #ff69b4;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        p, ul {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 15px 0;
+            margin-top: 20px;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 1em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>العيادة التجميلية</h1>
+        <p>أحدث تقنيات البوتوكس، الفيلر، وتجميل الشفاه</p>
+    </header>
+
+    <section id="about">
+        <h2>من نحن</h2>
+        <p>نحن نقدم أحدث خدمات التجميل الطبي مثل البوتوكس، الفيلر، وتجميل الشفاه. نحرص على تقديم نتائج طبيعية وآمنة بفضل فريقنا من الأطباء المتخصصين.</p>
+    </section>
+
+    <section id="services">
+        <h2>خدماتنا</h2>
+        <ul>
+            <li>البوتوكس: لتجديد الشباب وإزالة التجاعيد</li>
+            <li>الفيلر: لملء الفراغات وإبراز الوجنتين</li>
+            <li>تجميل الشفاه: لشفاه ممتلئة وجذابة</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>للحجز والاستعلام، يرجى الاتصال على الرقم: <strong>+90 123 456 7890</strong></p>
+    </footer>
+</body>
+</html>
